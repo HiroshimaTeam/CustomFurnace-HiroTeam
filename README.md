@@ -1,2 +1,2 @@
 # CustomFurnace-HiroTeam
-To make custom furnace recipe !
+To make infinite custom furnace recipe by a easy config !
