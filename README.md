@@ -12,4 +12,8 @@ plugin minecraft pocket edition
 
 PocketMine-MP
 
-Join discord: https://discord.gg/WuwsuUA
+HiroTeam member discord: WillyDuGang#6947 and RomainSav#9558 
+
+Hiroshima Pvp Faction: https://www.discord.io/HiroshimaMcPe 
+
+HiroTeam discord: https://discord.gg/WuwsuUA
