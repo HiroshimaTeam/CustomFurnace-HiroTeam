@@ -11,3 +11,5 @@ pmmp plugins
 plugin minecraft pocket edition
 
 PocketMine-MP
+
+Join discord: https://discord.gg/WuwsuUA
