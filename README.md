@@ -10,6 +10,8 @@ pmmp plugins
 
 plugin minecraft pocket edition
 
+pocketmine plugin
+
 PocketMine-MP
 
 HiroTeam member discord: WillyDuGang#6947 and RomainSav#9558 
