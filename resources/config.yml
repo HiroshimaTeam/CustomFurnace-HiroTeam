@@ -7,8 +7,8 @@
 #██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
 #╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 #description:
-#ENG: It is a purse plugin which allows you to change the price of items relative to the number of items purchased according to a time, the uptime !
-#FRA: C'est un plugin de bourse qui permet de changer le prix des items par rapport au nombre d'item acheté selon un temps, le uptime !
+#ENG: Plugin that allows you to customize and add recipes from the furnace
+#FRA: Plugin qui vous permet de personnaliser et d'ajouter des recettes de fours
 
 add: #You can add as many recipes as you want | Vous pouvez ajouter autant de recette que vous voulez
   casqueura: #Here you can put the name you want to organize your config | Vous pouvez mettre le nom que vous souhaitez pour vous organiser
