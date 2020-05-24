@@ -1,18 +1,9 @@
 # CustomFurnace-HiroTeam
-To make infinite custom furnace recipe by a easy config !
+CustomFurnace pocketmine plugin
 
-Permet de customisé les recettes des fours à l'infini via la config !
+ENG: Plugin that allows you to customize and add unlimited oven recipes
 
-exemple: je met un plastron dans le four et je le fais cuire, il devient du fer !
-
-
-pmmp plugins
-
-plugin minecraft pocket edition
-
-pocketmine plugin
-
-PocketMine-MP
+FRA: Plugin qui vous permet de personnaliser et d'ajouter illimite des recettes de fours
 
 HiroTeam member discord: WillyDuGang#6947 and RomainSav#9558 
 
