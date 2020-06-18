@@ -25,7 +25,7 @@
 - **E-mail:** team.hiroshima.dev@gmail.com<br/>
 - **Our PocketMine Server** :link:  https://hirovote.eu<br/>
 
-> ![HiroTeam](https://zupimages.net/up/20/24/m7ym.png) </br>
+> ![HiroTeam](https://www.zupimages.net/up/20/25/mb59.png) </br>
 > ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
 > ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
 > ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
