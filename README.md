@@ -1,5 +1,5 @@
 # CustomFurnace-HiroTeam
-![CustomFurnace](https://zupimages.net/up/20/24/4988.png)
+![CustomFurnace](https://cdn.discordapp.com/attachments/701520774598492220/723269120992215080/PicsArt_06-18-10.13.13.png)
 ---
 ### About
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin that allows you to customize and add unlimited oven recipes. Very useful for melting items that we could not ! FULL CONFIG :grin:<br/><br/>
