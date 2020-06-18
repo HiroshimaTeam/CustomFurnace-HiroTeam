@@ -1,5 +1,5 @@
 # CustomFurnace-HiroTeam
-![CustomFurnace](https://cdn.discordapp.com/attachments/701520774598492220/723270299122139256/PicsArt_06-18-10.13.13_copy_1024x217.png)
+![CustomFurnace](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin that allows you to customize and add unlimited oven recipes. Very useful for melting items that we could not ! FULL CONFIG :grin:<br/><br/>
@@ -27,12 +27,7 @@
 
 > ![HiroTeam](https://www.zupimages.net/up/20/25/mb59.png) </br>
 > ![HiroTeam](https://cdn.discordapp.com/attachments/701520774598492220/723269120992215080/PicsArt_06-18-10.13.13.png)
-> ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
-> ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
-> ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
-> ██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║</br>
-> ██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║</br>
-> ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+
 ---
 ### License
 HiroshimaTeam/CustomFurnace-HiroTeam is licensed under the
