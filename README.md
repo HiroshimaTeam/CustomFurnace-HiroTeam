@@ -26,7 +26,7 @@
 - **Our PocketMine Server** :link:  https://hirovote.eu<br/>
 
 > ![HiroTeam](https://www.zupimages.net/up/20/25/mb59.png) </br>
-> ![HiroTeam](https://cdn.discordapp.com/attachments/701520774598492220/723261350154862652/logo_HiroTeam_simple.png)
+> ![HiroTeam](https://cdn.discordapp.com/attachments/701520774598492220/723265887104270386/PicsArt_06-18-09.59.24.png)
 > ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
 > ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
 > ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
