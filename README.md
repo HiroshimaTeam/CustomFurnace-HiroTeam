@@ -1,4 +1,5 @@
 # CustomFurnace-HiroTeam
+Clique ici [Hentai Fraiche](https://discord.gg/xkn4uX6)
 ![CustomFurnace](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
